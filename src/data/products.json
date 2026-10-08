@@ -1,0 +1,11 @@
+[
+  { "id": 1, "name": "Resume Builder Pro", "description": "Build ATS-friendly resumes in minutes with polished templates.", "price": 19, "period": "monthly", "tag": "Popular", "tagType": "popular", "features": ["100+ templates", "ATS optimization", "Export to PDF"], "icon": "writing" },
+  { "id": 2, "name": "Portfolio Studio", "description": "Showcase your work with a fast, beautiful portfolio site.", "price": 49, "period": "yearly", "tag": "New", "tagType": "new", "features": ["Custom domain", "20+ layouts", "Analytics"], "icon": "portfolio" },
+  { "id": 3, "name": "Design Kit", "description": "UI kits, icons and mockups for every design project.", "price": 29, "period": "one-time", "tag": "Best Seller", "tagType": "best seller", "features": ["500+ UI assets", "Figma files", "Lifetime updates"], "icon": "design-tool" },
+  { "id": 4, "name": "Social Scheduler", "description": "Plan, schedule and track posts across all your channels.", "price": 15, "period": "monthly", "tag": "Popular", "tagType": "popular", "features": ["10 social accounts", "Auto posting", "Engagement reports"], "icon": "social-media" },
+  { "id": 5, "name": "Ops Automator", "description": "Automate repetitive workflows and keep your team in sync.", "price": 59, "period": "yearly", "tag": "New", "tagType": "new", "features": ["Workflow builder", "50+ integrations", "Team dashboards"], "icon": "operation" },
+  { "id": 6, "name": "Store Launcher", "description": "Launch an online store with checkout and inventory tools.", "price": 39, "period": "monthly", "tag": "Best Seller", "tagType": "best seller", "features": ["Secure checkout", "Inventory sync", "Discount codes"], "icon": "shopping-cart" },
+  { "id": 7, "name": "Content Writer AI", "description": "Draft blogs, emails and captions with a smart writing assistant.", "price": 25, "period": "monthly", "tag": "New", "tagType": "new", "features": ["Tone presets", "SEO suggestions", "Plagiarism check"], "icon": "writing" },
+  { "id": 8, "name": "Brand Toolkit", "description": "Logos, palettes and guidelines to keep your brand consistent.", "price": 79, "period": "one-time", "tag": "Popular", "tagType": "popular", "features": ["Logo maker", "Color palettes", "Brand guide PDF"], "icon": "design-tool" }
+]
+
